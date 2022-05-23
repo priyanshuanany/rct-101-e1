@@ -1,3 +1,14 @@
-.counter {
-  /* TODO */
+.button{
+    padding: 8px 12px;
+    background-color: #8197e8;
+    border-radius: 4px;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+.counter{
+    margin: 0 12px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: sans-serif;
 }
